@@ -1,0 +1,51 @@
+.container {
+    display: flex;
+    background-color:white;
+    width:300px;
+    height: 450px;
+    border-radius: 10px;
+    margin: auto;
+  }
+ .Services-pic{
+   display: flex;
+   margin-left: 10px;
+}
+.Services-pic img{
+    max-width: 30rem;
+    margin-right: 1em;
+}
+ 
+ 
+  .pfp-pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60rem;
+    height: 30rem;
+    }
+
+  main {
+    padding-top: 100px;
+  }
+  .court{
+    display: flex;
+    margin-left: 5em;
+    margin-right: 10em;
+    justify-content: space-between;
+  }
+
+  
+  h3 {
+    text-align: center;
+    
+  }
+
+  p{
+    text-align: center;
+
+  }
+  
+  .home-description{
+   
+    text-align: center;
+  }
